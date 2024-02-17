@@ -10,4 +10,4 @@
 * Belajar tentang Git dan GitHub.
 * Belajar dasar Git.
 
-### menambahkan branch latian ini juga konflik
+### menambahkan branch latian CONFLICTTT
